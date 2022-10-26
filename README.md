@@ -1,6 +1,6 @@
 # ArtBookProject
 
-I have used Core Data to save input where wrote from text label. 
+I have used Core Data to save input where written from text label. 
 I have used AppDelegate to connection with Core Data.
 I have used Gesture Recognizer for when I need to catch who tapped something.
 I have used UIImagePicker when I need to sense user interaction finished from photo library and when I need to create new image picker
