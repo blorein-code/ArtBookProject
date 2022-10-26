@@ -1,5 +1,5 @@
 # ArtBookProject
-CoreData,ImagePicker,LifeCycle,AppDelegate,GestureRecognizer
+
 I have used Core Data to save input where wrote from text label. 
 I have used AppDelegate to connection with Core Data.
 I have used Gesture Recognizer for when I need to catch who tapped something.
